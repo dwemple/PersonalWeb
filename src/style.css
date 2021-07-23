@@ -1,0 +1,38 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+}
+#content {
+    max-width: 950px;
+    padding: 100px 20px 0;
+}
+
+#content .main_img img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+#content .icon_img {
+    display: block;
+    width: 500px;
+    margin-top: -2px;
+}
+#content .icon_img img {
+    width: 60px;
+    height: auto;
+}
+
+#content .icon_img a:first-of-type {
+    padding-left:40px;
+    padding-right:118px;
+}
+
+#content .icon_img a:last-of-type {
+    padding-left:80px;
+}
